@@ -1,0 +1,5 @@
+C:\openCV-3.2.0\opencv\build\include
+
+C:\openCV-3.2.0\opencv\build\x64\vc14\lib
+
+opencv_world320d.lib
